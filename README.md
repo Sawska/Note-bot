@@ -1,2 +1,2 @@
 # Note-bot
-Show all my skills that I learned
+Shows all my skills that I learned
